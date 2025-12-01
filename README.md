@@ -32,8 +32,4 @@
 
   <br><br>
 
-  <h3>📊 Estatísticas</h3>
-  <div align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoHenrick2&layout=compact&langs_count=7&theme=tokyonight"/>
-  </div>
-</div>
+
