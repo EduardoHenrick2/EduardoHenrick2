@@ -3,7 +3,7 @@
   <h3>Dev em formação 🚀</h3>
 
   <p>
-    🔭 Estou à procura do primeiro Emprego<br>
+    🔭 Buscando iniciar minha carreira na área de tecnologia<br>
     🌱 Graduando em ADS (Análise e Desenvolvimento de Sistemas)<br>
     🤔 Atualmente aprendendo Front-End e Back-End<br>
     😄 Aprendizado contínuo
