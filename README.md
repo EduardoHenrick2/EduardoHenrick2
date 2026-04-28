@@ -1,13 +1,15 @@
 <div align="center">
 
-```
-███████╗██████╗ ██╗   ██╗ █████╗ ██████╗ ██████╗  ██████╗ 
-██╔════╝██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔══██╗██╔═══██╗
-█████╗  ██║  ██║██║   ██║███████║██████╔╝██║  ██║██║   ██║
-██╔══╝  ██║  ██║██║   ██║██╔══██║██╔══██╗██║  ██║██║   ██║
-███████╗██████╔╝╚██████╔╝██║  ██║██║  ██║██████╔╝╚██████╔╝
-╚══════╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ 
-```
+  <div align="center">
+  ```
+  ███████╗██████╗ ██╗   ██╗ █████╗ ██████╗ ██████╗  ██████╗ 
+  ██╔════╝██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔══██╗██╔═══██╗
+  █████╗  ██║  ██║██║   ██║███████║██████╔╝██║  ██║██║   ██║
+  ██╔══╝  ██║  ██║██║   ██║██╔══██║██╔══██╗██║  ██║██║   ██║
+  ███████╗██████╔╝╚██████╔╝██║  ██║██║  ██║██████╔╝╚██████╔╝
+  ╚══════╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ 
+  ```
+  </div>
 
 # Olá, eu sou o Eduardo! 👋
 
@@ -75,7 +77,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado po
 
 ## 🚀 Projetos em Destaque
 
-> *Seção em construção — projetos chegando em breve!* 🔨
+🔗 [Galeria Sonora](https://github.com/EduardoHenrick2/Galeria-Sonora)
 
 <!-- Cole aqui seus projetos quando tiver:
 ### 🔗 [Nome do Projeto](link-do-repositório)
@@ -84,15 +86,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado po
 
 ---
 
-## 🎯 Objetivos para 2025
-
-- [ ] Concluir o curso de ADS
-- [ ] Aprofundar em **React** e **Node.js**
-- [ ] Contribuir com projetos **open source**
-- [ ] Conquistar minha primeira vaga como **Dev Júnior**
-- [ ] Criar um portfólio sólido com projetos reais
-
----
 
 <div align="center">
 
