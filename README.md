@@ -98,9 +98,4 @@ Se você tem uma oportunidade ou quer trocar ideia sobre tecnologia, me chama! E
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardohenrick2/eduardohenrick2/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardohenrick2/eduardohenrick2/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardohenrick2/eduardohenrick2/output/pacman-contribution-graph.svg">
-</picture>
 
