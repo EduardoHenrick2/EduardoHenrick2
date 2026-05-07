@@ -62,10 +62,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado po
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EduardoHenrick2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoHenrick2&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoHenrick2&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -101,3 +97,19 @@ Se você tem uma oportunidade ou quer trocar ideia sobre tecnologia, me chama! E
 *"Todo expert já foi um dia um iniciante."* ✨
 
 </div>
+
+<img src="https://raw.githubusercontent.com/eduardohenrick2/eduardohenrick2/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/eduardohenrick2/eduardohenrick2/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/eduardohenrick2/eduardohenrick2/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/eduardohenrick2/eduardohenrick2/output/snake.svg" alt="Snake animation" />
+
+###
