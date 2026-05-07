@@ -97,19 +97,5 @@ Se você tem uma oportunidade ou quer trocar ideia sobre tecnologia, me chama! E
 *"Todo expert já foi um dia um iniciante."* ✨
 
 </div>
-
 <img src="https://raw.githubusercontent.com/eduardohenrick2/eduardohenrick2/output/snake.svg" alt="Snake animation" />
 
-###
-
-<img src="https://raw.githubusercontent.com/eduardohenrick2/eduardohenrick2/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/eduardohenrick2/eduardohenrick2/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/eduardohenrick2/eduardohenrick2/output/snake.svg" alt="Snake animation" />
-
-###
